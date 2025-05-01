@@ -1,4 +1,4 @@
-import boto3
+import boto3 #This is Boto3 python library to integrate with AWS Services....
 
 # Replace with your AWS API key and secret key
 aws_access_key_id = 'YOUR_AWS_ACCESS_KEY'
